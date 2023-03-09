@@ -15,7 +15,7 @@ metadata:
   name: on-call-webapp
   namespace: flux-system
 spec:
-  summary: 
+  summary: oswip 
   providerRef:
     name: slack
   eventSeverity: info
